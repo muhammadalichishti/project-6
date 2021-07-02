@@ -1,11 +1,9 @@
-# project 6
-![Windows XP Logo](assets/logo.svg)
-
+# Project 6
 #  Music Player 2.0
 
-[![License](https://img.shields.io/badge/license-Mozilla%20Public%20License%20Version%202.0-blue?logo=mozilla)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A replication of the awesome Windows-XP made by using only the web tools and no library. All rights reserved to <a href="https://www.microsoft.com/en-in">Microsoft&reg;</a>
+A modern and beautiful music player made by using only Html, Css and Java.
 
 
 ## Features
