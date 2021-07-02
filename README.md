@@ -80,5 +80,6 @@ A modern and beautiful music player made by using only Html, Css and Java.
 
 Full license: [MIT License](LICENSE)
 
-Description of MIT License in Simple Words: Ofcourse you can use this for your project! Just make sure to say where you got this from :)
+Description of MIT License in Simple Words: Ofcourse you can use this for your project! Just make sure to say where you got this from :) 
+<br/>
 Special Note: It took me several weeks to complete this project so kindly star the repository if you liked it. 
