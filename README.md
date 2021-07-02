@@ -76,8 +76,9 @@ A modern and beautiful music player made by using only Html, Css and Java.
 
 ## License
 
-[![License](https://img.shields.io/badge/license-Mozilla%20Public%20License%20Version%202.0-blue?logo=mozilla)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Full license: [Mozilla Public License V2.0](LICENSE)
+Full license: [MIT License](LICENSE)
 
-Translation: Ofcourse you can use this for you project! Just make sure to say where you got this from :)
+Description of MIT License in Simple Words: Ofcourse you can use this for your project! Just make sure to say where you got this from :)
+Special Note: It took me several weeks to complete this project so kindly star the repository if you liked it. 
