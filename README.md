@@ -3,8 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A modern and beautiful music player made by using only Html, Css and Java.
-
+It is a very A modern and minimalist music player made by using only Html, Css and Java.
 
 ## Features
 
@@ -18,9 +17,9 @@ A modern and beautiful music player made by using only Html, Css and Java.
     <td>1.</td>
     <td>
       <p align="center">
-      <img src="windows-xp-splash-screen.png" title="Splash Screen" alt="Splash Screen" />
+      <img src="./Readme Pictures/Music Player 2.0 (1).PNG" title="First Song" alt="First Song Picture" />
       <br />
-      Splash Screen
+      First Song
       </p>
     </td>
   </tr>
@@ -28,34 +27,23 @@ A modern and beautiful music player made by using only Html, Css and Java.
     <td>2.</td>
     <td>
       <p align="center">
-      <img src="windows-xp-welcome-screen.png" title="Welcome Screen" alt="Welcome Screen" />
+      <img src="./Readme Pictures/Music Player 2.0 (2)PNG" title="Second Song" alt="Second Song Picture" />
       <br />
-      Welcome Screen
+      Second Song
       </p>
     </td>
   </tr>
-
   <tr>
     <td>3.</td>
     <td>
       <p align="center">
-      <img src="windows-xp-desktop-screen.png" title="Desktop" alt="Desktop" />
+      <img src="./Readme Pictures/Music Player 2.0 (3)" title="Second Song" alt="Second Song Picture" />
       <br />
-      Desktop
+      Third Song
       </p>
     </td>
   </tr>
-  <tr>
 
-  <td>4.</td>
-    <td>
-      <p align="center">
-      <img src="windows-xp-notepad.png" title="Notepad" alt="Notepad" />
-      <br />
-      Notepad
-      </p>
-    </td>
-  </tr>
 </table>
 
 
