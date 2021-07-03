@@ -27,7 +27,7 @@ It is a very A modern and minimalist music player made by using only Html, Css a
     <td>2.</td>
     <td>
       <p align="center">
-      <img src="./Readme Pictures/Music Player 2.0 (2)PNG" title="Second Song" alt="Second Song Picture" />
+      <img src="./Readme Pictures/Music Player 2.0 (2).PNG" title="Second Song" alt="Second Song Picture" />
       <br />
       Second Song
       </p>
@@ -37,7 +37,7 @@ It is a very A modern and minimalist music player made by using only Html, Css a
     <td>3.</td>
     <td>
       <p align="center">
-      <img src="./Readme Pictures/Music Player 2.0 (3)" title="Second Song" alt="Second Song Picture" />
+      <img src="./Readme Pictures/Music Player 2.0 (3).PNG" title="Second Song" alt="Second Song Picture" />
       <br />
       Third Song
       </p>
